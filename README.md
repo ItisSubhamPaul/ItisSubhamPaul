@@ -7,8 +7,8 @@ Web Developer, App Developer and Designer
 I like Coding and Designing.
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [MyPortfolio](http://itissubhampaul.github.io/Portfolio/)
-* 🚀  I'm currently working on [MyPortfolio](http://itissubhampaul.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://subham-paul.vercel.app/)
+* 🚀  I'm currently working on [MyPortfolio](https://subham-paul.vercel.app/)
 * 🧠  I'm learning Next.js, Kotlin
 * 🤝  I'm open to collaborating on Intersting Projects
 
